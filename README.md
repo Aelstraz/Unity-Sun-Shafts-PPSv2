@@ -10,4 +10,4 @@ Simply add the entire folder into your Assets folder.
 
 Add the SunShafts script/component to the Main Camera. Set the shader properties to the shaders included. Check the example scene to learn more. Note: The effect isn't visible in the Editor. Enter Play mode or build the project in order for it to render.
 
-### Twitter: [@jakegwizdak](https://twitter.com/JakeGwizdak)
+### Twitter: [@aelstraz](https://twitter.com/Aelstraz)
