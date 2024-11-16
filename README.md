@@ -1,6 +1,6 @@
-## Sun Shafts (Modified for PPSv2)
+## Unity Legacy Sun Shafts (modified to work with newer versions of Unity)
 
-This is Unity's legacy Sun Shaft post processing effect, modified to work with the Post Processing Stack v2 (PPSv2). Tested using the Standard Rendering Pipeline. Updated to run in the editor.
+This is Unity's legacy Sun Shaft post processing effect, modified to work with Unity's Post Processing Stack. Tested using the Standard Rendering Pipeline. Updated to also be visible in the editor.
 
 ### IMPORTING/INSTALLING:
 
